@@ -1,9 +1,68 @@
 *{
     margin: 10px;
 }
+
 .cabecalho-geral{
     background-color: aqua;
 }
+
 .titulocabecalho{
     color: hotpink;
+    font-size: 60px;
+    font-family: cursive;
+    display: flex;
+    justify-content: space-around;
 }
+
+.listasecao{
+    padding: 10px;
+    font-size: 20px;
+}
+
+.tit-1-secao{
+    color: blueviolet;
+    font-size: 40px;
+    font-family: fantasy;
+}
+
+.tit-2-secao{
+    color: coral;
+    font-size: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.p-tit-1{
+    font-size: 20px;
+    color: blue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.item-1{
+    color: darkgreen;
+}
+
+.item-2{
+    color: darkmagenta;
+}
+
+.item-3{
+    color: hotpink;
+}
+
+.item-4{
+    color: deepskyblue;
+}
+
+.secao{
+    background-color: yellow;
+}
+
+.rodape{
+    background-color: palevioletred;
+    padding: 10px;
+    color: blue;
+}
+
+
+
+

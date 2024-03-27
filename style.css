@@ -14,7 +14,12 @@
     justify-content: space-around;
 }
 
-.listasecao{
+.lista-secao{
+    padding: 10px;
+    font-size: 20px;
+}
+
+.lista-coberturas{
     padding: 10px;
     font-size: 20px;
 }
